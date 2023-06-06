@@ -7,6 +7,6 @@ print("Application start")
 time.sleep(60) # Do some processing, like a long simulation
 
 with open(f"results_{seed}", 'w') as result_file:
-    result_file.write("Some data")
+    result_file.write("Some data\n")
 
 print("Application end")
