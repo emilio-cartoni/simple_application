@@ -1,3 +1,2 @@
 #!/bin/bash
-
-python simulation.py
+python3 simulation.py
